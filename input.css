@@ -9,6 +9,7 @@
 body {
     background: url(../images/bg-desktop.svg);
     background-color: hsl(257, 40%, 49%);
+    background-size: cover;
 }
 
 h1 {
